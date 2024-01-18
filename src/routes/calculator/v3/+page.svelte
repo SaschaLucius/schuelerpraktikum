@@ -6,6 +6,8 @@
 
 <Calculator />
 
+<Calculator />
+
 <h1>Svelte</h1>
 
 <p>
