@@ -37,6 +37,25 @@
 	</div>
 </div>
 
+<h1>CSS</h1>
+
+<p>
+	CSS steht für "Cascading Style Sheets" und ist eine Sprache, die verwendet wird, um das Aussehen
+	und die Gestaltung von Webseiten zu definieren.
+</p>
+<p>
+	Stell dir vor, du hast ein Haus mit einem soliden Gerüst (HTML) gebaut. CSS ist wie die Farben,
+	Tapeten und Möbel, die das Haus schön und gemütlich machen.
+</p>
+
+<p>
+	Mit CSS kannst du das Aussehen deiner Webseite gestalten, indem du Farben, Schriftarten, Abstände
+	und andere visuelle Eigenschaften festlegst. Es hilft dir dabei, deine Webseite übersichtlich und
+	ansprechend zu gestalten, ähnlich wie die verschiedenen Räume und Funktionen in einem Haus. CSS
+	ermöglicht es dir auch, das Layout deiner Webseite zu kontrollieren, indem du Elemente
+	positionierst und anordnest.
+</p>
+
 <style>
 	.calculator {
 		display: inline-block;

@@ -13,7 +13,7 @@
 <br />
 <a href="{base}/calculator/v3">Svelte Components</a>
 <br />
-<a href="{base}/calculator/v3">Svelte Components and Key-event handler</a>
+<a href="{base}/calculator/v4">Svelte Components and Key-event handler</a>
 
 <h3>Configurator</h3>
 
