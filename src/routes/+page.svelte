@@ -17,4 +17,4 @@
 
 <h3>Configurator</h3>
 
-<a href="{base}/configurator/v0">Nur HTML</a>
+<a href="{base}/configurator/v0">HTML und JS</a>
